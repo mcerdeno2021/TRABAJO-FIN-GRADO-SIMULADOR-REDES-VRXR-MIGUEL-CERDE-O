@@ -1,5 +1,10 @@
 # TRABAJO-FIN-GRADO-SIMULADOR-WIRESHARK-VRXR-MIGUEL-CERDEÑO
 
+## Pages
+- Github: https://mcerdeno2021.github.io/TRABAJO-FIN-GRADO-SIMULADOR-WIRESHARK-VRXR-MIGUEL-CERDE-O/
+Gitlab: 
+- Gitlab: https://gitlab-pages.eif.urjc.es/trabajo-fin-grado-simulador-wireshark-vrxr-miguel-cerden-6bbf2d/
+
 ## Idea principal:
 - Programa en el cual, al recibir una traza de Wireshark, esta se descomponga con sus diferentes elementos (archivos, paquetes, pcs, routers, switches, etc.), generando automáticamente un escenario en Netgui, el cual dará una primera imagen del esquema.
 - Esto dará lugar, a su vez, a un escenario en A-FRAME, donde se podrán ver todos estos elementos y el flujo de paquetes en VR y XR. En este escenario se podrán usar varias de las funcionalidades del propio Wireshark, así como un control de reproducción.
