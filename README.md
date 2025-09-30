@@ -2,7 +2,6 @@
 
 ## Pages
 - Github: https://mcerdeno2021.github.io/TRABAJO-FIN-GRADO-SIMULADOR-WIRESHARK-VRXR-MIGUEL-CERDE-O/
-Gitlab: 
 - Gitlab: https://gitlab-pages.eif.urjc.es/trabajo-fin-grado-simulador-wireshark-vrxr-miguel-cerden-6bbf2d/
 
 ## Idea principal:
